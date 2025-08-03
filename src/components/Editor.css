@@ -3,7 +3,7 @@
   gap: 10px;
 }
 
-.Eidtor input {
+.Editor input {
   flex: 1;
   padding: 15px;
   border: 1px solid rgb(220, 220, 220);
